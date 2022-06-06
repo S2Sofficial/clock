@@ -1,5 +1,5 @@
 # clock
-![](https://cdn3.iconfinder.com/data/icons/design-and-development-illustration/512/06-1024.png)
+![](https://source.unsplash.com/random/1920x1080/?clock)
 ## Analog Clock
 
 https://s2sofficial.github.io/clock/
@@ -56,3 +56,6 @@ It is rotating by 6° every 1 second. So for s seconds, it will rotate by 6s°
 ```s seconds = 6s°```
 
 So these three formulas will be used in the clock. These three calculations which we have done are very important for our clock and the rest will be created by using our web development skills such as Html, CSS, Bootstrap, JavaScript, and also responsive design.
+
+
+![](https://source.unsplash.com/random/1920x1080/?thankyou,smiley)
