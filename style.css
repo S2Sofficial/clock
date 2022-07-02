@@ -75,5 +75,9 @@
 
 {
     background-color: #3b5478
+    background-image: url('https://source.unsplash.com/random/900x700/?minimalist');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 
 }
